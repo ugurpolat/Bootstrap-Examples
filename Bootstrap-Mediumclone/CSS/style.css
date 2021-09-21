@@ -1,0 +1,29 @@
+
+
+.bg-yellow {
+    font-family: 'Castoro', serif;
+    background-color: #FFC017;
+} 
+
+.border-bottom-dark{
+    border-bottom: 1px solid #414141;
+}
+
+.text-dark {
+    color: #222;
+}
+
+.trend-text {
+    font-family: 'Castoro', serif;
+    
+}
+
+.aside-buttons > li {
+    margin-bottom: 3%;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 80px;
+}
